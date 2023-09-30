@@ -8,5 +8,5 @@
 - If you have a job for me that is not full time, and is just a commission, feel free to contact me on the Discord app. My tag is "sleepingraven".
 
 ## My specialized portfolios:
-- Work/leadership experiences:
-- Programming projects: 
+- [Work/leadership experiences](workexperience.md)
+- [Programming projects](programmingprojects.md)
