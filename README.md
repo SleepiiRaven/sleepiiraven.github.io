@@ -1,4 +1,3 @@
-## Hello, my name is Emma!
 - I am a programmer.
 - I am currently in Moorpark College.
 - My other hobbies include: writing music, game design, playing video games, and reading books!
